@@ -1,0 +1,11 @@
+/* Write your CSS here */
+
+.footer {
+  width: 100%;
+  bottom: 0;
+  padding: 10px 30px;
+  position: fixed;
+  background-color: crimson;
+  text-align: center;
+  color: blanchedalmond;
+}

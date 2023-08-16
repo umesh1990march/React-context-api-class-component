@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.body-container {
+  background-color: aquamarine;
+  width: 100%;
+  height: calc(100vh - (80px + 40px + 40px));
+  display: flex;
+}
+
+.left-container {
+  background-color: blueviolet;
+  height: 100%;
+  width: 20%;
+}
+.right-container {
+  background-color: cadetblue;
+  height: 100%;
+  width: 20%;
+}
+.center-container {
+  background-color: limegreen;
+  height: 100%;
+  width: 60%;
+}

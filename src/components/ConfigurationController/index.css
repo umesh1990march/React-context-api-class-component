@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.header {
+  width: 100%;
+  background-color: crimson;
+  color: white;
+  padding: 3px 30px;
+}
+
+.header div label {
+  margin-left: 20px;
+}
+
+.header div {
+  margin-bottom: 10px;
+}
